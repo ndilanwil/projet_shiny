@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projet_shiny/static/css/main.e49aa375.css",
+    "main.js": "/projet_shiny/static/js/main.df9a8ad4.js",
+    "static/js/592.af2d57e7.chunk.js": "/projet_shiny/static/js/592.af2d57e7.chunk.js",
+    "static/media/pro.jpg": "/projet_shiny/static/media/pro.2f1a3500beebd618fb23.jpg",
+    "static/media/institute2.jpg": "/projet_shiny/static/media/institute2.30d2715c8ab502150c48.jpg",
+    "static/media/choice.jpg": "/projet_shiny/static/media/choice.9b7c86ed8bc81553f2ba.jpg",
+    "static/media/sidder.jpg": "/projet_shiny/static/media/sidder.5e326cc75c6b24987add.jpg",
+    "static/media/Institute.jpg": "/projet_shiny/static/media/Institute.1f5013a55362afaddcd8.jpg",
+    "static/media/Professionel.jpg": "/projet_shiny/static/media/Professionel.ad95343b71e6f13e6d1e.jpg",
+    "static/media/CB.jpg": "/projet_shiny/static/media/CB.670d7a58340e473ae00a.jpg",
+    "static/media/cash.jpg": "/projet_shiny/static/media/cash.a1d42f75200d56cefaf6.jpg",
+    "static/media/Orange_Money.jpg": "/projet_shiny/static/media/Orange_Money.1a12273452b29a37df72.jpg",
+    "static/media/mtn_momo.jpg": "/projet_shiny/static/media/mtn_momo.4ac540585d795ec43332.jpg",
+    "index.html": "/projet_shiny/index.html",
+    "main.e49aa375.css.map": "/projet_shiny/static/css/main.e49aa375.css.map",
+    "main.df9a8ad4.js.map": "/projet_shiny/static/js/main.df9a8ad4.js.map",
+    "592.af2d57e7.chunk.js.map": "/projet_shiny/static/js/592.af2d57e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49aa375.css",
+    "static/js/main.df9a8ad4.js"
+  ]
+}
